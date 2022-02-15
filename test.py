@@ -1,0 +1,1 @@
+print ("Patients is power")
